@@ -1,0 +1,1208 @@
+		html{
+		height:100%;
+		margin:0;
+		padding:0;
+	}
+
+	body{
+		font: normal:85% nexa,arial;
+		background-image: url(Wonderful-Blue-Sky-HD-Wallpaper.jpg);
+		background-repeat:no-repeat ;
+		background-attachment:fixed;
+		
+	}
+
+	span{
+		font-family:nexa,arial;
+		font-weight:normal;
+		margin-left:75px;
+		
+	}
+
+
+
+
+	/*..........................Starting Head...............................*/
+
+	#main,	#header , #logo_area, #logof, #logoS, #buttons_bar, #body_box, #body,#container, #banner, #offers{
+		margin-right:auto;
+		margin-left:auto;
+	}
+
+	#main{ /*Started Main of Web*/
+		background:tranparent;
+		margin:20px;
+	}
+
+	#header{ /*Started Header of Web*/
+		padding-bottom:10px;
+		width:960px;
+		height:120px;
+		background:white;
+		
+			
+	}
+
+	#logo_area{ /*Started Logo area*/
+		width:960px;
+		height:70px;
+		padding:40px 0;			
+	}
+
+	#logof{ /*Inserted Logo Image*/
+		height:100px;
+		width:270px;		
+	}
+
+	#logoS{
+		color:#1D1D1D;
+		width:960px;
+		height:50px;
+		float: left;
+		padding-left:20px;
+	}
+
+	#logoS h1{
+		font: bold 110% nexa ,arial;
+		text-shadow: 1px 1px #ededed;
+		margin-top: -18px;	
+	}
+	/*..........................Closing Head...............................*/
+
+	 /*............................Staring Button..........................*/
+	#buttons_bar{
+		height:50px;
+		width:960px;
+		background:#2a77ff;
+		margin:  10px auto;
+		box-shadow: 4px 4px #4c525b;
+		text-align:center;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+
+	ul#buttons{
+		margin:0px;
+		margin:0px 10px;
+	}
+
+	ul#buttons li{
+		list-style:none;
+		display:inline;
+		
+	}
+
+	ul#buttons li a{
+		font: bold 120% nexa,arial;
+		text-align:center;
+		color:#FFF;
+		text-decoration:none;
+		text-shadow: 0px -2px 0px #000;	
+		height:24px;
+		padding:   /*Height*/16px  /*width*/20px   /*down height*/13px /*down width*/12px}
+
+	ul#buttons li.current a{
+		color:#FFF;
+		background:#323232;	
+	}
+
+	ul#buttons li:hover a{
+		color:#white;
+		background:#323232;
+		 text-shadow: none;}
+	}
+	 /*............................Ending Button..........................*/
+	 
+	 /*............................Starting Body.........................*/
+	#body{
+		width:960px;
+		padding-left:20px;
+		margin:0px auto;
+		background:#f6f6f6;
+		background: -moz-linear-gradient(#fbfbfb, #dedfe1);
+		background: -o-linear-gradient(#fbfbfb, #dedfe1);
+		background: -webkit-linear-gradient(#fbfbfb, #dedfe1);
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+
+	#tab{		
+		width:290px;
+		height:315px;
+		/*background-color:white;*/
+		display:inline;
+	}
+
+	#tab li {
+		display:inline;
+		color:white;
+		margin-left:150px;
+	}
+	#container { 
+		height:950px;
+		width:960px;
+		background:white;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		/*opacity:0.7;*/
+		margin-top:-18px;
+		/*margin-left:165px;*/
+	}
+
+	.left{
+		height:295px;
+		width:240px;
+		background-color:white;
+		webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+			
+		padding:-10px;
+	}
+
+	.departure{
+		text-align:center;
+		color:white;
+		font: bold 120% nexa,arial;
+		/*margin-top:22px;*/
+		padding:10px;
+		text-align:center;
+		text-shadow: 0px -2px 0px #000;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#form{
+		height:310px;
+		width:230px;
+		/*background-color:red;*/
+		margin-top:1px;
+		margin-left:17px;
+	}
+
+	#frombox{
+		height:20px;
+		width:125px;
+		
+		margin-left:44px;
+	}
+	#tobox{
+		height:20px;
+		width:125px;
+		
+		margin-left:61px;
+		margin-top:5px;	
+	}
+	#outboundbox{
+		height:15px;
+		width:125px;
+		
+		margin-left:15px;
+		margin-top:5px;	
+	}
+	#Returnbox{
+		height:15px;
+		width:125px;
+		
+		margin-left:35px;
+		margin-top:5px;	
+	}
+	#adultsChildrenbox{
+		height:18px;
+		width:25px;
+		
+		margin-left:36px;
+		margin-top:5px;	
+	}
+	#Childrenbox{
+		height:18px;
+		width:25px;
+		
+		margin-left:23px;
+		margin-top:5px;	
+	}
+	#submitbutton{
+		margin-left:155px;
+		margin-top:15px;
+		color:white;
+		font-family: bold nexa,arial;
+		padding:5px;
+		font-size:70%;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);	
+	}
+	#banner{
+		width: 715px;
+		height: 295px;
+		background-color:white;
+		margin-top:-295px;
+		margin-left:  245px;
+		webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+				
+	}
+
+
+	#packages{
+		width:240px;
+		height:630px;
+		background-color:white;
+		margin-top:-19px;
+		webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+			
+	}
+	#overflow{
+		margin-left:7px;
+		margin-top:-10px;
+		height:555px;
+		width:230px;
+		
+		overflow:scroll;
+		
+	}
+	.overflowheading{
+		margin-left:20px;
+	}
+
+	.overflowpara{
+		text-align:justify;
+		margin-left:2px;
+	}
+
+	.overflowli{
+		margin-left:-25px;
+	}
+
+	.oversecondimg{
+		height:119;
+		width:170px;
+		margin-left:20px;
+		webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+
+	#package{
+		width:715px;
+		height:630px;
+		background-color:white;
+		margin-left:245px;
+		margin-top:-656px;
+	}
+
+	#packagesinside{
+		width:699px;
+		height:490px;
+		background-color:white;
+		margin-left:7px;
+		margin-top:40px;
+	}
+	#pckgimg1{
+		margin-left:2px;
+		margin-top:33px;
+	}
+	#pckg{
+		margin-left:40px;
+		margin-top:-25px;
+	}
+	#pckg a{
+		text-decoration:none;
+		margin-left:50px;
+		color:blue;
+		font: bold nexa,arial;
+		
+
+	}
+
+	#pckgimg2{
+		margin-left:235px;
+		margin-top:-253px;
+	}
+	#pckg2{
+		margin-left:40px;
+		margin-top:-25px;
+	}
+	#pckg2 a{
+		text-decoration:none;
+		margin-left:50px;
+		color:blue;
+		font: bold nexa,arial;
+	}
+	#pckgimg3{
+		margin-left:468px;
+		margin-top:-254px;
+	}
+	#pckg3{
+		margin-left:40px;
+		margin-top:-25px;
+	}
+	#pckg3 a{
+		text-decoration:none;
+		margin-left:50px;
+		color:blue;
+		font: bold nexa,arial;
+	}
+
+	.departure2{
+		text-align:center;
+		color:white;
+		font: bold 120% nexa,arial;
+		/*margin-top:22px;*/
+		padding:1px;
+		text-align:center;
+		text-shadow: 0px -1px 0px #000;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+
+	 /*............................Ending Body...........................*/
+	 #footer{
+		width:960px;
+		height:100px;
+		background-color:white;
+		margin-top:-40px;
+		margin-left:0px;
+		background:white;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#footerbutton li{
+		display:inline;
+		text-decoration:none;
+		padding:5px;
+	}
+	#footerbutton a{
+		color:white;
+		text-decoration:none;
+		font-size:65%;
+	}
+	#copyrights{
+		font-weight:bold;
+		text-align:center;
+		margin-top:-35px;
+	}
+	.departure2inter{
+		text-align:center;
+		color:white;
+		font: bold 120% nexa,arial;
+		/*margin-top:22px;*/
+		padding:1px;
+		text-align:center;
+		text-shadow: 0px -1px 0px #000;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+
+
+	 #footerinter{
+		width:960px;
+		height:100px;
+		background-color:white;
+		margin-top:-68px;
+		margin-left:0px;
+		background:white;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	 #footerremain{
+		width:960px;
+		height:100px;
+		background-color:white;
+		margin-top:-44px;
+		margin-left:0px;
+		background:white;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#footerabout{
+		width:960px;
+		height:100px;
+		background-color:white;
+		margin-top:-44px;
+		margin-left:0px;
+		background:white;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#footerbuttoninter li{
+		display:inline;
+		text-decoration:none;
+		padding:5px;
+	}
+	#footerbuttoninter a{
+		color:white;
+		text-decoration:none;
+		font-size:65%;
+	}
+	#copyrightsinter{
+		font-weight:bold;
+		text-align:center;
+		margin-top:-35px;
+	}
+
+	#fomrinter{
+		height:1500px;
+		width:960px;
+		margin-top:20px;
+		
+		background-color:red;
+		webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;	
+	}
+	.formheading{
+		text-align:center;
+		color:white;
+		font: bold 120% nexa,arial;
+		/*margin-top:22px;*/
+		padding:10px;
+		text-align:center;
+		text-shadow: 0px -2px 0px #000;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#mainform{
+		width:960px;
+		height:895px;
+		background-color:white;
+		margin-top:-20px;
+		margin-left:0px;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+
+	/**********************	BOOKING********************************************/
+	.departure2booking{
+		text-align:center;
+		color:white;
+		font: bold 120% nexa,arial;
+		/*margin-top:22px;*/
+		padding:1px;
+		text-align:center;
+		text-shadow: 0px -1px 0px #000;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#mainbookingform{
+		width:890px;
+		height:865px;
+		background-color:white;
+		margin-top:-5px;
+		margin-left:33px;
+		overflow:scroll;
+	}
+
+	#mainbookingform h1{
+		text-align:center;
+		font-family:nexa,arial;
+		text-shadow: -2px #666666;
+	}
+	#mainbookingform p{
+		text-align:center;
+		font-family:nexa,arial;
+		font-weight:bold;
+	}
+
+	#mainbookingform h4{
+		font-family:nexa,arial;
+		font-weight:bold;
+		margin-left:75px;
+		font-size:19px;
+	}
+
+	#formbox1{
+		width:135px;
+		height:22px;
+		margin-top:-500px;
+		margin-left:75px;
+	}
+	#formbox2{
+		width:135px;
+		height:22px;
+		margin-top:10px;
+		margin-left:15px;
+	}
+	#formbox3{
+		width:135px;
+		height:22px;
+		margin-top:10px;
+		
+	}
+	#formbox4{
+		width:180px;
+		height:22px;
+		margin-top:-500px;
+		margin-left:75px;
+	}
+	#formbox5{
+		width:45px;
+		height:28px;
+		margin-top:-500px;
+		margin-left:75px;
+	}
+	#formbox6{
+		width:180px;
+		height:22px;
+		margin-top:-500px;
+		margin-left:6px;
+	}
+	#formbox7{
+		width:650px;
+		height:22px;
+		margin-top:-500px;
+		margin-left:75px;
+	}
+	#formbox8{
+		width:200px;
+		height:22px;
+		margin-top:-500px;
+		margin-left:75px;
+	}
+	#formbox9{
+		width:200px;
+		height:28px;
+		margin-top:-500px;
+		margin-left:20px;
+	}
+	#formbox10{
+		width:45px;
+		height:28px;
+		margin-top:-500px;
+		margin-left:6px;
+	}
+	#formbox11{
+		width:60px;
+		height:28px;;
+		margin-top:-500px;
+		margin-left:6px;
+	}
+	#formbox12{
+		width : 100px;
+		height:22px;
+		margin-top:-500px;
+		margin-left:6px;
+	}
+	#formbox13{
+		width:135px;
+		height:28px;
+		margin-top:-500px;
+		margin-left:75px;	
+	}
+	#formbox14{
+		width:200px;
+		height:28px;
+		margin-top:-500px;
+		margin-left:95px;
+	}
+	#submitbuttonbooking2{
+		width:110px;
+		height:40px;
+		font-family:nexa,arial;
+		font-size:110%;
+		font-weight:bold;
+		color:white;
+		margin-left:490px;
+		margin
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+	}
+	 #footerbooking{
+		width:960px;
+		height:100px;
+		background-color:white;
+		margin-top:-40px;
+		margin-left:0px;
+		background:white;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#footerbuttoninter li{
+		display:inline;
+		text-decoration:none;
+		padding:5px;
+	}
+	#footerbuttoninter a{
+		color:white;
+		text-decoration:none;
+		font-size:65%;
+	}
+	#copyrightsinter{
+		font-weight:bold;
+		text-align:center;
+		margin-top:-35px;
+	}
+	/**********************************************CONTUCT US*******************************************************/
+	#Contacinsider{
+		width:327px;
+		height:865px;
+		background-color:white;
+		margin-top:5px;
+		margin-left:41px;
+		/*-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;*/
+	}
+	#contactno{
+		width:325px;
+		height:210px;
+		margin-left:1px;
+		background-color:white;
+		margin-top:-24px;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#contactnoinsider{
+		width:285px;
+		height:100px;
+		background-color:white;
+		margin-left:31px;
+
+	}
+
+	#miscllenous{
+		height:571px;
+		width:327px;
+		background-color:white;
+		margin-top:-585px;
+		margin-left:40px;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		
+	}
+	#miscllenousinsider{
+		width:278px;
+		height:100px;
+		background-color:white;
+		margin-left:25px;
+	}
+
+	#miscllenous p{
+		text-align: justify;
+	}
+
+	#contactform{
+		width:555px;
+		height:833px;
+		background-color:white;
+		margin-left:332px;
+		margin-top:-431px;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#contactform h1{
+		text-align:left;
+		margin-left:30px;
+		font-family: nexa,arial;
+	}
+
+	#cformbox1{
+		height:25px;
+		width:250px;
+		margin-left:44px;
+	}
+	#cformbox2{
+		height:25px;
+		width:250px;
+		margin-left:47px;
+	}
+	#cformbox3{
+		height:370px;
+		width:350px;
+		margin-left:172px;
+		margin-top:-65px;
+
+	}
+
+	#contactform h6{
+		font-family:nexa,arial;
+		font-size:15px;
+		margin-left:77px;	
+	}
+	#clearbutton{
+		margin-left:420px;
+		width:57px;
+		height:35px;
+		letter-spacing:2px;
+		font-family:nexa,arial;
+		font-size:85%;
+		font-weight:bold;
+		color:white;
+		margin-left:365px;
+		
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+	}
+	#clearbutton2{
+		margin-left:420px;
+		width:57px;
+		height:35px;
+		letter-spacing:2px;
+		font-family:nexa,arial;
+		font-size:85%;
+		font-weight:bold;
+		color:white;
+		margin-left:40px;
+		
+		
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+	}
+
+	/**********************************************FAQ*******************************************************/
+	#mainformfaq{
+		width:960px;
+		height:895px;
+		background-image: url(Wonderful-Blue-Sky-HD-Wallpaper.jpg);	
+		background-color:white;
+		margin-top:-20px;
+		margin-left:0px;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+
+	#imginsider{
+		height:895px;
+		width:820px;
+		background-color:white;
+		margin-left:69px;
+		overflow:hidden;
+	}
+	#faqs{
+		height:894px;
+		width:700px;
+		background-color:tranparent;
+		margin-left:55px;
+		
+	}
+	#faqs h3{
+		font-family: bold nexa,arial;
+		color:white;
+		text-align:center;
+		padding:6px;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		letter-spacing:2px;
+		text-shadow: 0px -2px 0px #000;	
+	}
+	#faqs h5{
+		font-family: bold nexa, arial;
+		letter-spacing:2px;
+		color:#0043A8;
+		font-size:95%;
+	}
+	#faqs a{
+		
+		color:white;
+	}
+	#faqs h1{
+		font-family: bold nexa,arial;
+		text-align:center;
+		margin-top:170px;
+		letter-spacing:3px;
+		word-spacing:1px;
+		font-weight:bold 2px;
+		
+	}
+	#faqs h4{
+		font-family: bold nexa,arial;
+		color:white;
+		padding:6px;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		letter-spacing:2px;
+		text-shadow: 0px -2px 0px #000;
+		width:200px;
+		text-align:center;
+		margin-left:265px;
+	}
+	#faqp{
+		text-align:justify;
+		font-family:nexa,arial;
+		font-weight:normal;
+		color:black;
+	}
+	#imginsider2{
+		height:895px;
+		width:820px;
+		background-color:white;
+		margin-left:69px;
+		overflow:scroll;
+	}
+	/**********************************************ABOUT US*******************************************************/
+
+	#mainform3{
+		width:960px;
+		height:895px;
+		background-color:white;
+		margin-top:-20px;
+		margin-left:0px;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		overflow:scroll;
+	}
+	#mainbout{
+		height:300px;
+		width:870px;
+		background-color:tranparent;
+		margin-left:50px;
+	}
+	#mainbout p{
+		font-family:nexa,arial;
+		font-weight:normal;
+		text-align:justify;
+		font-size:120%;
+	}
+	#about{
+		height:875px;
+		width:854px;
+		background-color:transparent;
+		margin-left:50px;
+		
+	}
+	#about h4{
+		font-family: nexa, arial;
+		font-weight:bold;
+		
+		
+	}
+	#about p{
+		font-family:nexa,arial;
+		font-weight:normal;
+		text-align:justify;
+	}
+	#aboutimg1{
+		height:500px;
+		width:610px;
+		background-color:tranparent;
+		margin-left:260px;
+		margin-top:-405px;
+	}
+	#aboutworldmap{
+		font-family:nexa,arial;
+		font-weight:normal;
+		text-align:justify;
+		font-size:120%;
+	}
+	#worldmap{
+		margin-left:110px;
+		margin-top:100px;
+	}
+	#worldmaptext{
+		text-align:center;
+		margin-top:-10px;
+		letter-spacing:3px;
+		font-size:250%;
+		margin-left:10px;
+	
+	}
+
+	#worldmaptext2{
+		text-align:center;
+		margin-top:-380px;
+		letter-spacing:3px;
+		font-weight:bold;
+		margin-left:340px;
+		font-family:arial;
+	
+	}
+
+	
+/**********************************************DOMESTIC********************************************/
+	#formscroll{
+		height:895px;
+		width:945px;
+		background-color:tranparent;
+		margin-top:-20px;
+		margin-left:8px;
+		overflow:scroll;
+		
+	}
+
+	#formboxd{
+		width:800px;
+		height:700px;
+		margin-left:75px;
+		margin-top:95px;
+		background-color:transparent;
+		 border-style: solid;
+		border-width: 5px;
+		border-color: #0043A8;
+		background-image: url("o-FLY-facebook2.jpg");
+		opacity:0.9;
+		width:800px;
+		height:700px;
+		
+	}
+	#formboxd  h1{
+		color:white;
+		font-family:nexa,arial;
+		text-align:center;
+	}
+	#formboxdd{
+		width:800px;
+		height:700px;
+		margin-left:75px;
+		margin-top:95px;
+		background-color:transparent;
+		 border-style: solid;
+		border-width: 5px;
+		border-color: #0043A8;
+		background-image: url("o-FLY-facebook3.jpg");
+		opacity:0.8;
+		width:800px;
+		height:700px;
+		
+	}
+	#formboxdd  h1{
+		color:white;
+		font-family:nexa,arial;
+		text-align:center;
+	}
+	/*#formboxinter{
+		width:800px;
+		height:700px;
+		margin-left:75px;
+		margin-top:95px;
+		background-color:transparent;
+		 border-style: solid;
+		border-width: 5px;
+		border-color: #0043A8;
+		background-image: url("o-FLY-facebook3.jpg");
+		opacity:0.9;
+		width:800px;
+		height:700px;
+		
+	}
+	
+	#formboxinter  h1{
+		color:white;
+		font-family:nexa,arial;
+		text-align:center;
+	}*/
+	
+	
+	 #footerdom{
+		width:960px;
+		height:100px;
+		background-color:white;
+		margin-top:-68px;
+		margin-left:0px;
+		background:white;
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#formboxdinsider{
+		width:700px;
+		height:500px;
+		margin-left:95px;
+		margin-top:30px;
+		background-color:tranparent;
+	}
+	#boxd1{
+		width:250px;
+		height:40px;
+		border-style: solid;
+		
+		border-width: 2px;
+		border-color: #0043A8;
+	}
+	#boxd2{
+		width:200px;
+		height:36px;
+		border-style: solid;
+		border-width: 2px;
+		border-color: #0043A8;
+		
+	}
+	#boxd3{
+		width:50px;
+		height:32px;
+		border-style: solid;
+		border-width: 2px;
+		border-color: #0043A8;
+		
+	}
+	#boxd4{
+		width:200px;
+		height:30px;
+		border-style: solid;
+		border-width: 2px;
+		border-color: #0043A8;
+		margin-left:115px;
+	}
+	#resetd{
+		width:80px;
+		height:30px;
+	}
+	
+	#buttonsd{
+		width:250px;
+		height:20px;
+		margin-left:350px;
+		
+	}
+	#tableheading{
+		height:55px;
+		width:812px;
+		margin-left:-4px;
+		background-color:tranparent;
+		background: #0043A8;
+		background: -moz-linear-gradient(#43A9FF, #0043A8);
+		background: -o-linear-gradient(#43A9FF, #0043A8);
+		background: -webkit-linear-gradient(#43A9FF, #0043A8);
+		-webkit-border: 15px 15px 0px 0px;
+		-webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		-moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+		box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+	}
+	#tableheading table{
+		color:white;
+		font-weight:bold;
+		font-family:nexa,arial;
+		margin-left:45px;
+		border:1px white;
+
+	}
+	#h6{
+		text-align:center;
+		font-family:nexa,arial;
+		font-weight:bold;
+		font-size:130%;
+		letter-spacing:1px;
+		word-spacing:4px;
+	}
+	
+	#firstflight{
+		height:75px;
+		width:805px;
+		margin-left:-4px;
+		background-color:tranparent;
+		background: #white;
+		 border-style: solid;
+		border-width: 3px;
+		border-color: #0043A8;
+		margin-top:-30px;
+	}
+	
+	#departure1{
+		font-size:110%;
+		font-family:nexa,arial;
+		margin-left:60px;
+		
+	}
+	#arrival1{
+		font-size:110%;
+		font-family:nexa,arial;
+		margin-left:135px
+	}
+	#duration1{
+		font-size:110%;
+		font-family:nexa,arial;
+		margin-left:140px
+		
+	}
+	#price1{
+		font-size:110%;
+		font-family:nexa,arial;
+		margin-left:130px;
+	}
+	#to1{
+		font-family:nexa,arial;
+		font-size:85%;
+		letter-spacing:2px;
+		margin-left:61px;
+	}
+	#form1{
+		font-family:nexa,arial;
+		font-size:85%;
+		letter-spacing:2px;
+		margin-left:142px;
+	}
+	#spnsp{
+		font-family:nexa,arial;
+		font-size:85%;
+		letter-spacing:2px;
+		margin-left:125px;
+	}
+	
+	
+	
+	
+	
